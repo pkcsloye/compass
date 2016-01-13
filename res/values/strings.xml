@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Fresh Compass!</string>
+    <string name="app_name">Compass Fresh</string>
+    <string name="compass">Compass</string>
+
+</resources>
